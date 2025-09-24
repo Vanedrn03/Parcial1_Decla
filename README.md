@@ -7,4 +7,4 @@
 | Cristofer Ricardo Diaz Alfaro               | 00071222  |
 | Vanessa Saraí Durán Cruz                    | 00025822  |
 | Mauricio Alejandro Contreras Montoya        | 00000422  |
-|                                             |           |
+
