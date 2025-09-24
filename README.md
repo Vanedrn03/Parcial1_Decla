@@ -1,5 +1,7 @@
 # Integrantes
-| --- | --- |
+
+---------
+| Nombre | Carnet |
 | German David Santos Hernández | 00059122 |
 | José Juventino Castillo Hernández | 00048322 |
 | Cristofer Ricardo Diaz Alfaro | 00071222 |
